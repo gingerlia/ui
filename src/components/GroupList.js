@@ -13,7 +13,6 @@ const GroupList = () => {
                 <GroupItem />
                 <GroupItem />
                 <GroupItem />
-                <GroupItem />
             </div>
         </div>
     )
